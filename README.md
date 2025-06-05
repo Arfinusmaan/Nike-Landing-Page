@@ -46,7 +46,7 @@ A modern, responsive landing page for Nike, built with React and Tailwind CSS.
 
 
 
-##🌐 Live Demo
+🌐 Live Demo
 https://nike-arfin.vercel.app
 
 
